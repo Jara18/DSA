@@ -23,8 +23,9 @@ public class main {
 			}
 		}
 		if(found>=0) {
-			System.out.println("FOUND at " + found);
-		}else {
+			System.out.println(found);
+		}
+		else {
 			System.out.println("NOT FOUND");
 		}
 		
